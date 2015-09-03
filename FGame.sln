@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FGame", "FGame\FGame.csproj", "{3CC91127-90C1-4C5A-9DA4-82DDDCD51E74}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FGame", "FGame\FGame.csproj", "{73EAB957-AAE6-4A4C-A403-3E6F052544BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FGame.Sample", "FGame.Sample\FGame.Sample.csproj", "{8CA8D9D3-2D24-47A6-A356-46493872F628}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3CC91127-90C1-4C5A-9DA4-82DDDCD51E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3CC91127-90C1-4C5A-9DA4-82DDDCD51E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3CC91127-90C1-4C5A-9DA4-82DDDCD51E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3CC91127-90C1-4C5A-9DA4-82DDDCD51E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73EAB957-AAE6-4A4C-A403-3E6F052544BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EAB957-AAE6-4A4C-A403-3E6F052544BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EAB957-AAE6-4A4C-A403-3E6F052544BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EAB957-AAE6-4A4C-A403-3E6F052544BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA8D9D3-2D24-47A6-A356-46493872F628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA8D9D3-2D24-47A6-A356-46493872F628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA8D9D3-2D24-47A6-A356-46493872F628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA8D9D3-2D24-47A6-A356-46493872F628}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
